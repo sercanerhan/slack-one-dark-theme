@@ -29,7 +29,8 @@
   --orange2: #E5707B;
   --gray: #3E4451;
   --silver: #9da5b4;
-  --black: #21252b; }
+  --black: #21252b; 
+  --dark-blue:#34447c;  }
 
 @keyframes fade-background-highlight {
   from {
@@ -756,7 +757,7 @@ ts-mention {
   #client-ui .file_list_item .star:hover,
   .tab_container .file_list_item .star.starred,
   .tab_container .file_list_item .star:hover {
-    color: var(--yellow); }
+    color: var(--dark-blue); }
 
 .file_list_item {
   background: var(--background) !important; }
