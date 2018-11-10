@@ -187,7 +187,7 @@ ts-mention {
   .c-mrkdwn__member--link:hover,
   .c-mrkdwn__subteam--link:hover,
   ts-mention:hover {
-    background: var(--accent);
+    background: var(--red2);
     color: var(--text-accent) !important;
     opacity: 0.8; }
 
@@ -233,7 +233,7 @@ ts-mention {
 .feature_name_tagging_client .internal_member_link,
 .feature_name_tagging_client .internal_user_group_link,
 .feature_name_tagging_client ts-mention {
-  background-color: var(--accent) !important;
+  background-color: var(--red2) !important;
   color: var(--text-accent) !important; }
 
 .very_small_bottom_margin {
@@ -380,7 +380,7 @@ ts-mention {
         border-color: var(--primary) !important;
         color: var(--text-bright) !important; }
       .client_channels_list_container #col_channels .p-channel_sidebar__banner--mentions {
-        background-color: var(--primary) !important;
+        background-color: var(--red2) !important;
         border-color: var(--primary) !important;
         color: var(--text-bright) !important; }
       .client_channels_list_container #col_channels .p-channel_sidebar__link, .client_channels_list_container #col_channels .p-channel_sidebar__channel {
