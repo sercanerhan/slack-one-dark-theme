@@ -12,7 +12,7 @@
   --background-light: #AAA;
   --background-bright: #FFF;
   --border-dim: #666;
-  --border-bright: var(--primary);
+  --border-bright: var(--red2);
   --text-bright: #FFF;
   --text-dim: #555c69;
   --text-special: var(--primary);
